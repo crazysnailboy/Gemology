@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "variant=amethyst": { "model": "gemology:amethyst_ore" },
+        "variant=blackdiamond": { "model": "gemology:blackdiamond_ore" },
+        "variant=clinohumite": { "model": "gemology:clinohumite_ore" },
+        "variant=goshenite": { "model": "gemology:goshenite_ore" },
+        "variant=heliodor": { "model": "gemology:heliodor_ore" },
+        "variant=morganite": { "model": "gemology:morganite_ore" },
+        "variant=onyx": { "model": "gemology:onyx_ore" },
+        "variant=pyrite": { "model": "gemology:pyrite_ore" },
+        "variant=ruby": { "model": "gemology:ruby_ore" },
+        "variant=sapphire": { "model": "gemology:sapphire_ore" },
+        "variant=topaz": { "model": "gemology:topaz_ore" },
+        "variant=turquoise": { "model": "gemology:turquoise_ore" }
+    }
+}

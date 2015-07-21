@@ -1,0 +1,114 @@
+language.name=English
+language.region=US
+language.code=en_US
+
+
+### GEM ORES
+
+tile.amethyst_ore.name=Amethyst Ore
+tile.blackdiamond_ore.name=§cBlack Diamond Ore
+tile.pyrite_ore.name=Pyrite Ore
+tile.ruby_ore.name=Ruby Ore
+tile.sapphire_ore.name=Sapphire Ore
+tile.topaz_ore.name=Topaz Ore
+
+### GEM BLOCKS
+
+tile.amethyst_block.name=Block of Amethyst
+tile.blackdiamond_block.name=§cBlock of Black Diamond
+tile.pyrite_block.name=Block of Pyrite
+tile.ruby_block.name=Block of Ruby
+tile.sapphire_block.name=Block of Sapphire
+tile.topaz_block.name=Block of Topaz
+
+### GEMS
+
+item.amethyst.name=Amethyst
+item.blackdiamond.name=§cBlack Diamond
+item.pyrite.name=Pyrite
+item.ruby.name=Ruby
+item.sapphire.name=Sapphire
+item.topaz.name=Topaz
+
+### TOOLS
+
+item.amethyst_axe.name=Amethyst Axe
+item.amethyst_hoe.name=Amethyst Hoe
+item.amethyst_pickaxe.name=Amethyst Pickaxe
+item.amethyst_shovel.name=Amethyst Shovel
+
+item.blackdiamond_axe.name=§cBlack Diamond Axe
+item.blackdiamond_hoe.name=§cBlack Diamond Hoe
+item.blackdiamond_pickaxe.name=§cBlack Diamond Pickaxe
+item.blackdiamond_shovel.name=§cBlack Diamond Shovel
+
+item.emerald_axe.name=Emerald Axe
+item.emerald_hoe.name=Emerald Hoe
+item.emerald_pickaxe.name=Emerald Pickaxe
+item.emerald_shovel.name=Emerald Shovel
+
+item.pyrite_axe.name=Pyrite Axe
+item.pyrite_hoe.name=Pyrite Hoe
+item.pyrite_pickaxe.name=Pyrite Pickaxe
+item.pyrite_shovel.name=Pyrite Shovel
+
+item.ruby_axe.name=Ruby Axe
+item.ruby_hoe.name=Ruby Hoe
+item.ruby_pickaxe.name=Ruby Pickaxe
+item.ruby_shovel.name=Ruby Shovel
+
+item.sapphire_axe.name=Sapphire Axe
+item.sapphire_hoe.name=Sapphire Hoe
+item.sapphire_pickaxe.name=Sapphire Pickaxe
+item.sapphire_shovel.name=Sapphire Shovel
+
+item.topaz_axe.name=Topaz Axe
+item.topaz_hoe.name=Topaz Hoe
+item.topaz_pickaxe.name=Topaz Pickaxe
+item.topaz_shovel.name=Topaz Shovel
+
+### WEAPONS
+
+item.amethyst_sword.name=Amethyst Sword
+item.blackdiamond_sword.name=§cBlack Diamond Sword
+item.emerald_sword.name=Emerald Sword
+item.pyrite_sword.name=Pyrite Sword
+item.ruby_sword.name=Ruby Sword
+item.sapphire_sword.name=Sapphire Sword
+item.topaz_sword.name=Topaz Sword
+
+### ARMOUR
+
+item.amethyst_helmet.name=Amethyst Helmet
+item.amethyst_chestplate.name=Amethyst Chestplate
+item.amethyst_leggings.name=Amethyst Leggings
+item.amethyst_boots.name=Amethyst Boots
+
+item.blackdiamond_helmet.name=§cBlack Diamond Helmet
+item.blackdiamond_chestplate.name=§cBlack Diamond Chestplate
+item.blackdiamond_leggings.name=§cBlack Diamond Leggings
+item.blackdiamond_boots.name=§cBlack Diamond Boots
+
+item.emerald_helmet.name=Emerald Helmet
+item.emerald_chestplate.name=Emerald Chestplate
+item.emerald_leggings.name=Emerald Leggings
+item.emerald_boots.name=Emerald Boots
+
+item.ruby_helmet.name=Ruby Helmet
+item.ruby_chestplate.name=Ruby Chestplate
+item.ruby_leggings.name=Ruby Leggings
+item.ruby_boots.name=Ruby Boots
+
+item.sapphire_helmet.name=Sapphire Helmet
+item.sapphire_chestplate.name=Sapphire Chestplate
+item.sapphire_leggings.name=Sapphire Leggings
+item.sapphire_boots.name=Sapphire Boots
+
+item.topaz_helmet.name=Topaz Helmet
+item.topaz_chestplate.name=Topaz Chestplate
+item.topaz_leggings.name=Topaz Leggings
+item.topaz_boots.name=Topaz Boots
+
+### MISC
+
+item.diamond_stick.name=Diamond Stick

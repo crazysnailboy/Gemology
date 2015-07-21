@@ -1,0 +1,14 @@
+[{
+	"modid": "gemology",
+	"name": "Gemology",
+	"description": "Gemology adds several new gems based on real life gemstones, each with their respective sets of tools, weapons and armour.",
+	"version": "0.1",
+	"mcversion": "1.8",
+	"credits": "domi1819 (GemsCraft), dvatreknerd314 (Trekkie Cub's Shiny Things), n0b0dy2052 (Minerals)",
+	"authorList": ["crazysnailboy","domi1819"],
+	"url": "https://github.com/crazysnailboy/Gemology",
+	"updateUrl": "",
+	"logoFile": "assets/gemology/logo.png",
+	"screenshots": [],
+	"dependencies": []
+}]
