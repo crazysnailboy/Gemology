@@ -29,11 +29,6 @@ public class BlockGemOre extends BlockOre
 		this.setDefaultState(this.blockState.getBaseState().withProperty(VARIANT, BlockGem.EnumType.AMETHYST));
 	}
 	
-	@Override
-	public int damageDropped(IBlockState state)
-	{
-		return this.getMetaFromState(state);
-	}
 	
 	@SideOnly(Side.CLIENT)
 	public void getSubBlocks(Item itemIn, CreativeTabs tab, List list)
@@ -65,15 +60,29 @@ public class BlockGemOre extends BlockOre
 		{
 			case AMETHYST: return GCItems.amethyst;
 			case BLACKDIAMOND: return GCItems.blackdiamond;
+			case CLINOHUMITE: return GCItems.clinohumite;
+			case GOSHENITE: return GCItems.goshenite;
+			case HELIODOR: return GCItems.heliodor;
+			case MORGANITE: return GCItems.morganite;
+			case ONYX: return GCItems.onyx;
 			case PYRITE: return GCItems.pyrite;
 			case RUBY: return GCItems.ruby;
 			case SAPPHIRE: return GCItems.sapphire;
 			case TOPAZ: return GCItems.topaz;
+			case TURQUOISE: return GCItems.turquoise;
 			
-			default: return null; // should never get here
+			default: return super.getItemDropped(state, rand, fortune); // should never get here
 		}
 	}
 
+	@Override
+    public int damageDropped(IBlockState state)
+    {
+        return 0;
+//		return this.getMetaFromState(state);
+    }
+	
+	
 	@Override
 	public int quantityDropped(Random random)
 	{

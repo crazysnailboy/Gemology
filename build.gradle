@@ -27,7 +27,7 @@ configFile.withReader {
 }
 
 
-version = config.mod_version
+version = config.mod_version + "." + config.mod_build_number
 group= "net.crazysnailboy.mods.gemology" 
 archivesBaseName = "[" + config.minecraft_version + "] " + config.mod_name
 
